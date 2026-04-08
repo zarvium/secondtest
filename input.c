@@ -1,9 +1,9 @@
 #include<stdio.h>
 
 void main(){
-	int a;
+	int c;
 	printf("Enter the value of a");
-	scanf("%d",&a);
+	scanf("%d",&c);
 	printf("you entered a as %d",a);
 	return;
 }	
