@@ -5,5 +5,6 @@ void main(){
 	printf("Enter the value of a");
 	scanf("%d",&c);
 	printf("you entered a as %d",a);
+	printf("hell yeah");
 	return;
 }	
